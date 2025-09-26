@@ -40,7 +40,7 @@
 
 ## 📫 How to Reach Me
 - ✉️ Email: **alimaazakhter@gmail.com**  
-- 💼 LinkedIn: [Ali Maaz Akhter](https://www.linkedin.com/in/alimaaz-akhter-38014a240)
+- 💼 LinkedIn: [Alimaaz Akhter](https://www.linkedin.com/in/alimaaz-akhter-38014a240)
   
 ---
 
