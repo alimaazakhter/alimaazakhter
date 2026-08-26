@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hey! I’m an MCA student, developer, problem-solver, and aspiring entrepreneur who enjoys learning, building, experimenting, and turning ideas into something real.<br><br>I’m deeply interested in Artificial Intelligence, Machine Learning, Data Science, AI Automation, and Full-Stack Development. I love understanding how things work under the hood and then using that knowledge to build practical projects rather than just learning technology theoretically.<br><br>But technology is only one part of what I’m interested in.<br><br>I’m fascinated by startups, entrepreneurship, product building, business ideas, and the process of turning a simple idea into something people can actually use. I enjoy thinking about problems from both a technical and a business perspective — not just “Can I build this?”, but also “Why should this exist?” and “Can this actually solve a real problem?”<br><br>I’m naturally curious and always looking for something new to explore. I enjoy experimenting with new technologies, trying different approaches, breaking things, fixing them, and learning from the process. I believe some of the best learning happens when you actually build something and encounter problems you didn’t expect.<br><br>I’m also someone who values consistency, self-improvement, creativity, and independent thinking. I don’t want my journey to be limited to getting a degree or simply landing a job. I want to continuously develop myself, build valuable skills, create products, and eventually work on ideas of my own.<br><br>🚀 What I’m Currently Exploring<br>🤖 Artificial Intelligence & Machine Learning<br>🧠 Generative AI & AI Automation<br>📊 Data Science & Intelligent Applications<br>💻 Full-Stack Development & MERN<br>🔎 RAG & AI-powered systems<br>🏗️ Building practical projects from scratch<br>💡 Startup & product ideas<br>🌱 Freelancing & independent work<br>📈 Business, innovation & entrepreneurship<br>🧩 How I Think<br><br>I believe learning by building is one of the most powerful ways to grow.<br><br>I don’t want to just collect technologies on my resume. I want to understand them, experiment with them, and figure out where they can create real value.<br><br>I’m comfortable being a beginner at something new. For me, not knowing something isn’t a limitation — it’s an opportunity to learn.<br><br>🎯 My Bigger Goal<br><br>My long-term goal is to become more than just a developer.<br><br>I want to become a builder and entrepreneur — someone who can identify problems, understand people, design solutions, build the technology behind them, and turn those solutions into real products or businesses.<br><br>I’m still figuring out exactly where this journey will take me, and honestly, that’s part of the fun.<br><br>For now, I’m focused on one thing:<br><br>Learning → Building → Failing → Improving → Building Again. 🚀<br><br>“Don’t just learn technology. Build something with it.”
+👋 About Me
+
+Hey! I’m an MCA student, developer, problem-solver, and aspiring entrepreneur who loves learning, building, experimenting, and turning ideas into reality.
+
+I’m passionate about AI, Machine Learning, Data Science, AI Automation, and Full-Stack Development. I enjoy understanding how things work and using that knowledge to build practical, real-world projects.
+
+Beyond technology, I’m fascinated by startups, entrepreneurship, product building, business ideas, and innovation. I like looking at problems from both technical and business perspectives — not just “Can I build it?”, but “Why should it exist?” and “Can it create real value?”
+
+I believe in learning by building, staying curious, experimenting with new ideas, and constantly improving. I don’t want to simply collect technologies for my resume — I want to use them to solve problems, create products, and eventually build something of my own.
+
+🚀 Currently Exploring
+
+🤖 AI & Machine Learning
+🧠 Generative AI & Automation
+📊 Data Science
+💻 Full-Stack Development & MERN
+🔎 RAG & AI-powered Applications
+💡 Startups, Products & Entrepreneurship
+
+🎯 My Goal
+
+To become more than just a developer — a builder and entrepreneur who can turn ideas into useful products and real-world solutions.
+
+Learn → Build → Fail → Improve → Repeat. 🚀
+
+“Don’t just learn technology. Build something with it.”
 
 
 ## 🌐 Socials:
